@@ -1,8 +1,34 @@
-# Hi — I'm Abid AR 👋
+# Hi I'm Abid AR 👋
 Indie Game Dev • Detail-oriented IT Support Specialist
 
 # 💫 About Me:
-🔭 Currently building: reliable, scalable systems and delightful developer tools.<br>🌱 I’m learning: advanced architecture patterns, distributed tracing, and developer experience.<br>⚡ Fun fact: I love turning messy ideas into reproducible, testable code.
+Independent game developer crafting immersive, interactive experiences with a focus on polish and playability. I combine a systems-first background in IT support—hardware diagnostics, OS deployment, and cross-platform workflows—with game tools like Unreal Engine and Blender to build reliable asset pipelines, automation, and production-ready prototypes. I develop gameplay and tooling in C, C++, and Python, and use web tech for demos and documentation. I prioritize clean architecture, clear documentation, and iterative development to move ideas from concept to playable build quickly.
+
+---
+
+## 🛠️ Technical Skills
+- Languages: C, C++, Python, HTML, CSS  
+- Tools & Platforms: VirtualBox, OS deployment tooling, Windows, Linux  
+- Game Tools (learning): Unreal Engine, Blender  
+- Other strengths: technical documentation, troubleshooting, asset management
+
+---
+
+## 🔭 Current Focus
+- Deepening game development skills in Unreal Engine and Blender  
+- Applying systems support experience to streamline game dev workflows and asset pipelines
+
+---
+
+## ✨ Projects
+- CS50p — Coursework and projects exploring Python, testing, and problem solving.
+- Unreal & Blender work — Prototypes and assets in progress (happy to showcase repos or demos as they become public)
+
+---
+
+## 🤝 Open to
+- Hiring — available for roles that blend systems/IT expertise and game/tooling development as well as graphic design.
+
 
 
 ## 🌐 Socials:
@@ -14,14 +40,3 @@ Indie Game Dev • Detail-oriented IT Support Specialist
 ![](https://github-readme-stats.vercel.app/api?username=call-me-abid&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=call-me-abid&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=call-me-abid&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=call-me-abid&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-[![](https://visitcount.itsvg.in/api?id=call-me-abid&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
